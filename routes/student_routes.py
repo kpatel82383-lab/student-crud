@@ -8,6 +8,7 @@ from controllers.student_controller import (
     delete_student
 )
 
+
 router = APIRouter()
 
 
