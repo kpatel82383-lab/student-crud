@@ -82,3 +82,19 @@ Open the API documentation:
 
 http://127.0.0.1:8001/docs
 
+
+
+\## API Endpoints
+
+
+
+POST /students - Create a student
+
+GET /students - Get all students
+
+GET /students/{id} - Get student by ID
+
+PUT /students/{id} - Update a student
+
+DELETE /students/{id} - Delete a student
+
